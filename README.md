@@ -1,5 +1,6 @@
 Docker: the Linux container engine
 ==================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/wesgurn/docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Docker is an open source project to pack, ship and run any application
 as a lightweight container
