@@ -1,6 +1,8 @@
 Docker: the Linux container engine
 ==================================
 
+[![Join the chat at https://gitter.im/craftnode/docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/craftnode/docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Docker is an open source project to pack, ship and run any application
 as a lightweight container
 
@@ -22,7 +24,7 @@ hundreds of thousands of applications and databases.
 
 ## Better than VMs
 
-A common method for distributing applications and sandboxing their
+A common method for distributing applications and sandbox their
 execution is to use virtual machines, or VMs. Typical VM formats are
 VMWare's vmdk, Oracle Virtualbox's vdi, and Amazon EC2's ami. In
 theory these formats should allow every developer to automatically
@@ -193,9 +195,10 @@ wrong or incomplete.
 *Brought to you courtesy of our legal counsel. For more context,
 please see the Notice document.*
 
-Use and transfer of Docker may be subject to certain restrictions by the
-United States and other governments.  
-It is your responsibility to ensure that your use and/or transfer does not
-violate applicable laws. 
+Transfers of Docker shall be in accordance with applicable export
+controls of any country and all other applicable legal requirements.
+Docker shall not be distributed or downloaded to or in Cuba, Iran,
+North Korea, Sudan or Syria and shall not be distributed or downloaded
+to any person on the Denied Persons List administered by the U.S.
+Department of Commerce.
 
-For more information, please see http://www.bis.doc.gov
